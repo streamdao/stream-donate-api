@@ -1,11 +1,23 @@
 {
-    "name": "riptide-dona-api",
-    "version": "1.0.1",
-    "description": "API for StreamDAO project for Streaming Payment",
+    "name": "@stream-dao/stream-donate-api",
+    "version": "0.1.0",
+    "description": "API for StreamPayment is a checkout donations platform built on Solana Pay",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC"
+    "author": "StreamDAO",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/streamdao/stream-donate-api.git"
+    },
+    "keywords": [
+        "donate",
+        "api"
+    ],
+    "bugs": {
+        "url": "https://github.com/streamdao/stream-donate-api/issues"
+    },
+    "homepage": "https://github.com/streamdao/stream-donate-api#readme"
 }
