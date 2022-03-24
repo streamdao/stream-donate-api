@@ -1,5 +1,5 @@
 {
-    "name": "@stream-dao/stream-donate-api",
+    "name": "@streamdao/stream-donate-api",
     "version": "0.1.0",
     "description": "API for StreamPayment is a checkout donations platform built on Solana Pay",
     "main": "index.js",
